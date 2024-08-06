@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "antfu.unocss",
+    "vitest.explorer",
+    "wiensss.region-highlighter"
+  ]
+}
