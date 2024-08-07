@@ -73,3 +73,7 @@ module.exports = {
 
 1. husky - 管理 git hooks
 2. lint-staged - 筛选文件
+
+### 安装使用 commitlint
+
+参考 [commitlint](https://juejin.cn/post/7265455444037533755)
