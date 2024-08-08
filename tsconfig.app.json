@@ -8,6 +8,13 @@
     "module": "ESNext",
     "skipLibCheck": true,
 
+    "baseUrl": "./",
+
+    /* alias */
+    "paths": {
+      "@/*": ["src/*"]
+    },
+
     /* Bundler mode */
     "moduleResolution": "bundler",
     "allowImportingTsExtensions": true,
