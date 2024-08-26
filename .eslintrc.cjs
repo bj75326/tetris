@@ -5,6 +5,7 @@ module.exports = {
 
   rules: {
     'prettier/prettier': 'error',
+    'react-hooks/exhaustive-deps': 'error',
     'simple-import-sort/imports': [
       'error',
       {
